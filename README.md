@@ -3,7 +3,7 @@ The dataset and source codes for Disparity-guided Multi-view Interaction Network
 
 ## Datasets
 **Based on our self-collected LF reflection dataset, we use 400 (synthetic) + 50 (real-world) scenes for training and 20 (synthetic) + 20 (real-world) scenes for testing.
-Please first download our datasets via [Baidu Drive](https://pan.baidu.com/s/1fkYbIVchBLBd5oGnniqgFA?pwd=vida), and place the datasets to the folder `./LFRR_DATA/`.**
+Please first download our datasets via [Baidu Drive](https://pan.baidu.com/s/1fkYbIVchBLBd5oGnniqgFA?pwd=vida), and place the datasets to the folder `./LFRR_DATA/`. You can use `./read_lf_h5.py` to load the data.**
 
 * **Our project has the following structure:**
   ```
