@@ -1,4 +1,4 @@
-# LFRR
+# LFRR_TCI2024
 The dataset and source codes for Disparity-guided Multi-view Interaction Network for Light Field Reflection Removal.
 
 ## Datasets
