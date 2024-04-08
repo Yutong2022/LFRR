@@ -1,11 +1,5 @@
 '''
-@article{IINet,
-  title={Intra-Inter View Interaction Network for Light Field Image Super-Resolution},
-  author={Liu, Gaosheng and Yue, Huanjing and Wu, Jiamin and Yang, Jingyu},
-  journal={IEEE Transactions on Multimedia},
-  year={2021},
-  publisher={IEEE}
-}
+DMINet
 '''
 import torch
 import torch.nn as nn
