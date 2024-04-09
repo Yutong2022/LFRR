@@ -43,11 +43,13 @@ Please first download our datasets via [Baidu Drive](https://pan.baidu.com/s/1fk
 
 ## Train & test
 
-For train:
+Before training or testing, please downland checkpoint from [Baidu Drive](https://pan.baidu.com/s/1GXKF9HzT0sKhN91z0gvUHw?pwd=vida) and put them into the folder `./pretrained_model/`.
+
+* If you want to simply start training, you can execute the code:
 ```shell
 bash train.sh 
 ```
-For test:
+* If you want to simply start testing, you can execute the code:
 ```shell
 bash test.sh
 ```
