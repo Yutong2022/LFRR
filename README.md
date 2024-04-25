@@ -1,6 +1,6 @@
 # LFRR_TCI2024
-The dataset and source codes for Disparity-guided Multi-view Interaction Network for Light Field Reflection Removal.
-[Paper](https://ieeexplore.ieee.org/abstract/document/10268449) | [Bibtex](https://github.com/Yutong2022/LFRR)
+The dataset and source code for Disparity-guided Multi-view Interaction Network for Light Field Reflection Removal.
+[Paper]() | [Bibtex]()
 
 ## Dependencies
 
