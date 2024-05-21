@@ -1,6 +1,6 @@
 # LFRR_TCI2024
 The dataset and source code for Disparity-guided Multi-view Interaction Network for Light Field Reflection Removal.
-[Paper]() | [Bibtex]()
+[Paper](https://ieeexplore.ieee.org/document/10510261?source=authoralert) | [Bibtex](## Citation)
 
 ## Dependencies
 
@@ -57,17 +57,17 @@ bash test.sh
 ## Citation
 
 If you find this work helpful, please consider citing our paper.
-<!-- ```latex
-@ARTICLE{10268449,
-  author={Liu, Yutong and Cheng, Zhen and Xiao, Zeyu and Xiong, Zhiwei},
-  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-  title={Light Field Super-Resolution Using Decoupled Selective Matching}, 
-  year={2023},
-  volume={},
+```latex
+@ARTICLE{10510261,
+  author={Liu, Yutong and Weng, Wenming and Gao, Ruisheng and Xiao, Zeyu and Zhang, Yueyi and Xiong, Zhiwei},
+  journal={IEEE Transactions on Computational Imaging}, 
+  title={Disparity-Guided Multi-View Interaction Network for Light Field Reflection Removal}, 
+  year={2024},
+  volume={10},
   number={},
-  pages={1-1},
-  doi={10.1109/TCSVT.2023.3321085}}
-``` -->
+  pages={726-741},
+  doi={10.1109/TCI.2024.3394773}}
+```
 
 ## Related Projects
 
